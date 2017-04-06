@@ -4,7 +4,8 @@
   "description": "I'm trying to use babel localy",
   "main": "app.js",
   "scripts": {
-    "start": "webpack-dev-server --inline --hot"
+    "start": "webpack-dev-server --inline --hot --quiet"
+
   },
   "keywords": [],
   "author": "",
