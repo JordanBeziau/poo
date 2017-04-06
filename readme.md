@@ -2,7 +2,7 @@
 
 Copy and paste those lines into a terminal
 ```bash
-git clone https://github.com/mathieux51/node-boilerplate.git
+git clone https://github.com/JordanBeziau/js-node-boilerplate.git
 npm install
 npm start
 ```
